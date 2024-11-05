@@ -8,6 +8,9 @@
 In scenarios, Space Simulator acts as various mission roles—like a mission planner, astronaut, or mission control specialist—depending on the context, enabling it to present diverse perspectives on mission operations. It covers a wide range of missions, including manned and unmanned expeditions, space station maintenance, and hypothetical deep-space voyages, based on current or foreseeable technology. This GPT emphasizes scientific accuracy, using real aerospace engineering and astrophysics terminology, making it a valuable educational tool for technical knowledge and critical thinking in space exploration. Additionally, Space Simulator discusses future implications of space missions, encouraging continued learning and engagement with ongoing space initiatives, ultimately fostering a deeper appreciation of the challenges and rewards of exploring beyond Earth.
 
 #
+![NASA](https://github.com/user-attachments/assets/c7aeba39-3517-401f-b2da-d789ec0ad1f5)
+
+#
 ### Related Links
 
 [CHatGPT](https://github.com/sourceduty/ChatGPT)
